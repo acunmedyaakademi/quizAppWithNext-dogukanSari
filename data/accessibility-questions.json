@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Erişilebilirlik (Accessibility) ne anlama gelir?",
+    "options": [
+      "A) İnternet sitelerinin sadece masaüstü cihazlarda çalışması", 
+      "B) Web içeriklerine herkesin erişebilmesini sağlamak", 
+      "C) Web sitelerinin sadece görsel açıdan çekici olması", 
+      "D) Web sitelerinin hızlı yüklenmesi"
+    ],
+    "correctAnswer": "B) Web içeriklerine herkesin erişebilmesini sağlamak"
+  },
+  {
+    "question": "Erişilebilirlik için en önemli unsur hangisidir?",
+    "options": [
+      "A) Renk uyumu", 
+      "B) Metin okuma desteği", 
+      "C) Görsel düzen", 
+      "D) HTML yapılandırması"
+    ],
+    "correctAnswer": "B) Metin okuma desteği"
+  },
+  {
+    "question": "Hangi HTML etiketi, bir bağlantının amaçlandığı işlevi belirtir?",
+    "options": [
+      "A) <a>", 
+      "B) <img>", 
+      "C) <button>", 
+      "D) <div>"
+    ],
+    "correctAnswer": "A) <a>"
+  },
+  {
+    "question": "Ekran okuyucu kullanan kullanıcılar için hangi HTML etiketleri önemlidir?",
+    "options": [
+      "A) <div> ve <span>", 
+      "B) <header> ve <footer>", 
+      "C) <img> ve <alt>", 
+      "D) <section> ve <article>"
+    ],
+    "correctAnswer": "C) <img> ve <alt>"
+  },
+  {
+    "question": "Renk körü olan bir kullanıcı için hangi renk kombinasyonu önerilmez?",
+    "options": [
+      "A) Kırmızı ve Yeşil", 
+      "B) Mavi ve Sarı", 
+      "C) Siyah ve Beyaz", 
+      "D) Mor ve Turuncu"
+    ],
+    "correctAnswer": "A) Kırmızı ve Yeşil"
+  },
+  {
+    "question": "Erişilebilir bir web formu için en önemli özellik nedir?",
+    "options": [
+      "A) Estetik görünüm", 
+      "B) Hızlı yükleme süresi", 
+      "C) Etiketlerin doğru kullanımı", 
+      "D) Görsel hiyerarşi"
+    ],
+    "correctAnswer": "C) Etiketlerin doğru kullanımı"
+  },
+  {
+    "question": "Web sitelerinde alt yazı (caption) kullanımı neden önemlidir?",
+    "options": [
+      "A) Yükleme süresini azaltır", 
+      "B) Mobil cihazlarda daha iyi görünüm sağlar", 
+      "C) İşitme engelli kullanıcılar için içerik erişimini artırır", 
+      "D) Görsel kalitesini artırır"
+    ],
+    "correctAnswer": "C) İşitme engelli kullanıcılar için içerik erişimini artırır"
+  },
+  {
+    "question": "Hangi ARIA (Accessible Rich Internet Applications) özelliği, bir öğenin erişilebilirliğini artırır?",
+    "options": [
+      "A) aria-hidden", 
+      "B) aria-label", 
+      "C) aria-disabled", 
+      "D) aria-checked"
+    ],
+    "correctAnswer": "B) aria-label"
+  },
+  {
+    "question": "Erişilebilirlik testleri yapmak için hangi araç kullanılabilir?",
+    "options": [
+      "A) Photoshop", 
+      "B) Google Lighthouse", 
+      "C) Chrome DevTools", 
+      "D) Sublime Text"
+    ],
+    "correctAnswer": "B) Google Lighthouse"
+  },
+  {
+    "question": "Erişilebilir bir web sitesi tasarlarken hangi yaklaşım en önemlidir?",
+    "options": [
+      "A) Minimalist tasarım", 
+      "B) Renk doygunluğu", 
+      "C) Kullanıcı merkezli tasarım", 
+      "D) İnteraktif öğeler"
+    ],
+    "correctAnswer": "C) Kullanıcı merkezli tasarım"
+  }
+]
