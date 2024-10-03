@@ -1,0 +1,102 @@
+[
+  {
+    "question": "JavaScript nedir?",
+    "options": [
+      "A) Bir programlama dili", 
+      "B) Bir stil sayfası dili", 
+      "C) Bir veri tabanı", 
+      "D) Bir işletim sistemi"
+    ],
+    "correctAnswer": "A) Bir programlama dili"
+  },
+  {
+    "question": "JavaScript'te hangi anahtar kelime değişken tanımlamak için kullanılır?",
+    "options": [
+      "A) var", 
+      "B) let", 
+      "C) const", 
+      "D) Hepsi"
+    ],
+    "correctAnswer": "D) Hepsi"
+  },
+  {
+    "question": "JavaScript'te hangi sembol 'strict equality' anlamına gelir?",
+    "options": [
+      "A) =", 
+      "B) ==", 
+      "C) ===", 
+      "D) !=="
+    ],
+    "correctAnswer": "C) ==="
+  },
+  {
+    "question": "JavaScript'te bir dizinin uzunluğunu öğrenmek için hangi özellik kullanılır?",
+    "options": [
+      "A) length", 
+      "B) size", 
+      "C) count", 
+      "D) index"
+    ],
+    "correctAnswer": "A) length"
+  },
+  {
+    "question": "JavaScript'te bir fonksiyon nasıl tanımlanır?",
+    "options": [
+      "A) function myFunction()", 
+      "B) var myFunction = function()", 
+      "C) const myFunction = () => {}", 
+      "D) Hepsi"
+    ],
+    "correctAnswer": "D) Hepsi"
+  },
+  {
+    "question": "JavaScript'te hangi metot bir dizinin sonuna eleman ekler?",
+    "options": [
+      "A) push", 
+      "B) pop", 
+      "C) shift", 
+      "D) unshift"
+    ],
+    "correctAnswer": "A) push"
+  },
+  {
+    "question": "JavaScript'te bir 'for' döngüsü nasıl başlatılır?",
+    "options": [
+      "A) for (let i = 0; i < 5; i++)", 
+      "B) for (i <= 5; i++)", 
+      "C) for i = 1 to 5", 
+      "D) for (let i = 0; i <= 5)"
+    ],
+    "correctAnswer": "A) for (let i = 0; i < 5; i++)"
+  },
+  {
+    "question": "JavaScript'te 'undefined' neyi ifade eder?",
+    "options": [
+      "A) Tanımlanmamış bir değişken", 
+      "B) Tanımsız bir değer", 
+      "C) Yanlış bir değer", 
+      "D) Null değer"
+    ],
+    "correctAnswer": "A) Tanımlanmamış bir değişken"
+  },
+  {
+    "question": "JavaScript'te 'this' anahtar kelimesi neyi ifade eder?",
+    "options": [
+      "A) Global nesneyi", 
+      "B) Mevcut fonksiyonu", 
+      "C) Mevcut nesneyi", 
+      "D) Hiçbiri"
+    ],
+    "correctAnswer": "C) Mevcut nesneyi"
+  },
+  {
+    "question": "JavaScript'te 'NaN' ne anlama gelir?",
+    "options": [
+      "A) Not a Number", 
+      "B) Not a Name", 
+      "C) Not an Array", 
+      "D) Not Applicable"
+    ],
+    "correctAnswer": "A) Not a Number"
+  }
+]
