@@ -1,0 +1,52 @@
+[
+  {
+    "question": "HTML neyin kısaltmasıdır?",
+    "options": ["A) Hyperlinks and Text Markup Language", "B) Home Tool Markup Language", "C) Hyper Text Markup Language", "D) Hyper Text Makeup Language"],
+    "correctAnswer": "C) Hyper Text Markup Language"
+  },
+  {
+    "question": "HTML'de en büyük başlık etiketi hangisidir?",
+    "options": ["A) <h6>", "B) <h1>", "C) <h2>", "D) <h3>"],
+    "correctAnswer": "B) <h1>"
+  },
+  {
+    "question": "<a> etiketi hangi amaçla kullanılır?",
+    "options": ["A) Liste oluşturmak", "B) Bağlantı oluşturmak", "C) Paragraf oluşturmak", "D) Görsel eklemek"],
+    "correctAnswer": "B) Bağlantı oluşturmak"
+  },
+  {
+    "question": "HTML dokümanında stil tanımlamak için hangi etiket kullanılır?",
+    "options": ["A) <css>", "B) <script>", "C) <style>", "D) <link>"],
+    "correctAnswer": "C) <style>"
+  },
+  {
+    "question": "Bir HTML sayfasında hangi etiket metni kalın yapar?",
+    "options": ["A) <i>", "B) <u>", "C) <b>", "D) <strong>"],
+    "correctAnswer": "C) <b>"
+  },
+  {
+    "question": "HTML'de sayfa başlığı hangi etikette bulunur?",
+    "options": ["A) <title>", "B) <head>", "C) <meta>", "D) <body>"],
+    "correctAnswer": "A) <title>"
+  },
+  {
+    "question": "<img> etiketi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": ["A) Görsel eklemek için kullanılır", "B) Bağlantı oluşturmak için kullanılır", "C) Tablo oluşturmak için kullanılır", "D) Liste oluşturmak için kullanılır"],
+    "correctAnswer": "A) Görsel eklemek için kullanılır"
+  },
+  {
+    "question": "Bir HTML dokümanında listelenen maddeler için hangi etiket kullanılır?",
+    "options": ["A) <ul>", "B) <ol>", "C) <li>", "D) <dl>"],
+    "correctAnswer": "C) <li>"
+  },
+  {
+    "question": "<br> etiketi ne işe yarar?",
+    "options": ["A) Satır sonu ekler", "B) Paragraf oluşturur", "C) Metni kalın yapar", "D) Bağlantı oluşturur"],
+    "correctAnswer": "A) Satır sonu ekler"
+  },
+  {
+    "question": "HTML'de tablo başlığı hangi etiketle belirlenir?",
+    "options": ["A) <thead>", "B) <th>", "C) <tr>", "D) <td>"],
+    "correctAnswer": "B) <th>"
+  }
+]
