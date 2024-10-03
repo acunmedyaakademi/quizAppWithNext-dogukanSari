@@ -1,0 +1,102 @@
+[
+  {
+    "question": "CSS neyin kısaltmasıdır?",
+    "options": [
+      "A) Colorful Style Sheets", 
+      "B) Creative Style Sheets", 
+      "C) Cascading Style Sheets", 
+      "D) Computer Style Sheets"
+    ],
+    "correctAnswer": "C) Cascading Style Sheets"
+  },
+  {
+    "question": "CSS'de hangi özellik bir öğenin arka plan rengini ayarlamak için kullanılır?",
+    "options": [
+      "A) color", 
+      "B) bgcolor", 
+      "C) background-color", 
+      "D) background-image"
+    ],
+    "correctAnswer": "C) background-color"
+  },
+  {
+    "question": "CSS'de hangi özellik metin rengini ayarlamak için kullanılır?",
+    "options": [
+      "A) font-color", 
+      "B) text-color", 
+      "C) color", 
+      "D) font-style"
+    ],
+    "correctAnswer": "C) color"
+  },
+  {
+    "question": "CSS'de bir öğenin içeriği ile kenarları arasındaki boşluğu ayarlamak için hangi özellik kullanılır?",
+    "options": [
+      "A) margin", 
+      "B) padding", 
+      "C) border", 
+      "D) spacing"
+    ],
+    "correctAnswer": "B) padding"
+  },
+  {
+    "question": "CSS'de bir öğenin kenarlarının kalınlığını ayarlamak için hangi özellik kullanılır?",
+    "options": [
+      "A) padding", 
+      "B) margin", 
+      "C) border-width", 
+      "D) border-style"
+    ],
+    "correctAnswer": "C) border-width"
+  },
+  {
+    "question": "CSS'de bir öğenin yatay hizalamasını ayarlamak için hangi özellik kullanılır?",
+    "options": [
+      "A) align", 
+      "B) horizontal-align", 
+      "C) text-align", 
+      "D) align-items"
+    ],
+    "correctAnswer": "C) text-align"
+  },
+  {
+    "question": "CSS'de 'id' seçici hangi sembol ile tanımlanır?",
+    "options": [
+      "A) . (nokta)", 
+      "B) # (diyez)", 
+      "C) * (yıldız)", 
+      "D) @ (at)"
+    ],
+    "correctAnswer": "B) # (diyez)"
+  },
+  {
+    "question": "CSS'de yazı tipini değiştirmek için hangi özellik kullanılır?",
+    "options": [
+      "A) font-family", 
+      "B) font-style", 
+      "C) font-weight", 
+      "D) font-size"
+    ],
+    "correctAnswer": "A) font-family"
+  },
+  {
+    "question": "CSS'de 'class' seçici hangi sembol ile tanımlanır?",
+    "options": [
+      "A) . (nokta)", 
+      "B) # (diyez)", 
+      "C) * (yıldız)", 
+      "D) @ (at)"
+    ],
+    "correctAnswer": "A) . (nokta)"
+  },
+  {
+    "question": "CSS'de bir öğenin şeffaflığını ayarlamak için hangi özellik kullanılır?",
+    "options": [
+      "A) opacity", 
+      "B) transparency", 
+      "C) visibility", 
+      "D) display"
+    ],
+    "correctAnswer": "A) opacity"
+  }
+]
